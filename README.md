@@ -1,7 +1,7 @@
 
 - 1. Ejecutar ```run.sh``` y seguir instrucciones.
 
-- 1.1 Inspeccionar con ``` dig -t txt _acme-challenge.capitaliza.net ```
+- 1.1 Inspeccionar con ``` dig -t txt _acme-challenge.holdit.cloud ```
 
 - 2. Ejecutar ```docker cp cert-getter:/etc/letsencrypt/archive ./data```
 
